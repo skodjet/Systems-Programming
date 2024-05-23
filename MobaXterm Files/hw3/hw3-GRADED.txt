@@ -1,0 +1,14 @@
+Total: 75 
+
+Create:
+	Hard links aren't handled correctly (-10pts)
+
+
+Print:
+	Executables are not marked (-5pts)
+
+
+Extract:
+	Does not extract hard links (-10pts)
+
+
